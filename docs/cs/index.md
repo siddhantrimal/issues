@@ -1,5 +1,18 @@
 #### Roadblocks
 
+1. _OPEN: Issue005_
+    * 9/20/2017
+    * Server is returning a 404 Error
+    * possible suspect is handler configration for now. 
+    * No more clues
+    ![IIS Backend throws 404](screenshots/08.png)
+
+1. __CLOSED: Issue004__
+    * 9/20/2017
+    * This is a problem with IIS Publishing
+    * Issue has been resolved with [this](https://stackoverflow.com/a/12867753)
+    ![IIS Backend Configuration Problem](screenshots/07.png)
+
 1. _OPEN: Issue003_
     * Following Issue002, further problems were encountered as a part of it. This problem is encountered:
     ![A datatype mismatch was found while making a query](screenshots/03.png)
