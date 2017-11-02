@@ -1,7 +1,5 @@
 standard documentation<a name="#top"></a>
 
-[TOC]
-
 # Configuring MIS on a 32-bit Windows 7 system
 
 ## Pre-requisites
