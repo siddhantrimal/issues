@@ -2,21 +2,21 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>MIS Documentation on MIS documentation</title>
-    <link>https://siddhantrimal.github.io/issues/mis/</link>
+    <link>/issues/mis/</link>
     <description>Recent content in MIS Documentation on MIS documentation</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <lastBuildDate>Mon, 24 Apr 2017 18:36:24 +0200</lastBuildDate>
     
-	<atom:link href="https://siddhantrimal.github.io/issues/mis/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="/issues/mis/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
       <title>Pre-requisites</title>
-      <link>https://siddhantrimal.github.io/issues/mis/windows-7-setup-guide/pre-requisites/</link>
+      <link>/issues/mis/windows-7-setup-guide/pre-requisites/</link>
       <pubDate>Fri, 03 Nov 2017 17:59:20 +0545</pubDate>
       
-      <guid>https://siddhantrimal.github.io/issues/mis/windows-7-setup-guide/pre-requisites/</guid>
+      <guid>/issues/mis/windows-7-setup-guide/pre-requisites/</guid>
       <description>You&amp;rsquo;ll need the following resources before beginning
  Native Requirements
  IMS Backend Host Files IMS Frontend Host Files SQL Database Backup  Software Requirements
@@ -25,10 +25,10 @@
     
     <item>
       <title>Preparing the Device</title>
-      <link>https://siddhantrimal.github.io/issues/mis/windows-7-setup-guide/preparing-the-device/</link>
+      <link>/issues/mis/windows-7-setup-guide/preparing-the-device/</link>
       <pubDate>Fri, 03 Nov 2017 17:59:20 +0545</pubDate>
       
-      <guid>https://siddhantrimal.github.io/issues/mis/windows-7-setup-guide/preparing-the-device/</guid>
+      <guid>/issues/mis/windows-7-setup-guide/preparing-the-device/</guid>
       <description>Before doing anything, Install all the pre-requisites properly
 Please follow the steps, in proper order, for successful installation
  Open SQL Server Management Studio 2012(may be named as SQL Management Studio)
@@ -37,10 +37,10 @@
     
     <item>
       <title>Setting Up</title>
-      <link>https://siddhantrimal.github.io/issues/mis/windows-7-setup-guide/setting-up/</link>
+      <link>/issues/mis/windows-7-setup-guide/setting-up/</link>
       <pubDate>Fri, 03 Nov 2017 17:59:20 +0545</pubDate>
       
-      <guid>https://siddhantrimal.github.io/issues/mis/windows-7-setup-guide/setting-up/</guid>
+      <guid>/issues/mis/windows-7-setup-guide/setting-up/</guid>
       <description>In this segment, we will set up the system to work on a local intranet
 Before we begin, please ensure that the MIS is properly functioning in the host computer itself. If it is unable, first configure the binding setup in the IIS itself. Or, check if you have failed to follow the previous steps properly.
 Configuring IIS to our needs  Press Win+R and type inetmgr Go to Basic Settings and ensure Application pool is .</description>
@@ -48,20 +48,20 @@ Before we begin, please ensure that the MIS is properly functioning in the host 
     
     <item>
       <title>Troubleshoot</title>
-      <link>https://siddhantrimal.github.io/issues/mis/windows-7-setup-guide/troubleshooting/</link>
+      <link>/issues/mis/windows-7-setup-guide/troubleshooting/</link>
       <pubDate>Fri, 03 Nov 2017 17:59:20 +0545</pubDate>
       
-      <guid>https://siddhantrimal.github.io/issues/mis/windows-7-setup-guide/troubleshooting/</guid>
+      <guid>/issues/mis/windows-7-setup-guide/troubleshooting/</guid>
       <description>Here are some common issues that you may face while performing this setup
  SQL backup file refuses to restore into the database  Ensure that you are using an instance of SQL Server 2012 while connecting to the database-engine from SQL Server Management Studio. If there are multiple named instances, choosing the incorrect one will create this problem. If all else fails, this can be generally resolved by installing SQL Server 2012.</description>
     </item>
     
     <item>
       <title>header</title>
-      <link>https://siddhantrimal.github.io/issues/mis/_header/</link>
+      <link>/issues/mis/_header/</link>
       <pubDate>Mon, 24 Apr 2017 18:36:24 +0200</pubDate>
       
-      <guid>https://siddhantrimal.github.io/issues/mis/_header/</guid>
+      <guid>/issues/mis/_header/</guid>
       <description>MIS Documentation</description>
     </item>
     
