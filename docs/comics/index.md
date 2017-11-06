@@ -20,13 +20,14 @@ Unfortunately, Dom Dom Soft is no longer officially supported. So, lets look int
 ||1.2|[Setup and Execution][152]
 |[2][17]|[Walkthrough][17]
 |[3][16]| [Example Output][16]
-
+|[4][19]| [Something pretty, for an amazing offline reading experience][19]
 
 [15]: #installation-1-2-3
 [151]: #get-these
 [152]: #do-this
 [16]: #took-a-great-dump
 [17]: #a-typical-walkthrough-would-be
+[19]: #dom-dom-soft-reader
 
 ---
 
@@ -308,8 +309,22 @@ Total Time Taken To Complete : 482.711000204
 
 siddhantrimal>
 ```
-[BACK TO TOP^][4]
----
+
+
+# Dom Dom Soft Reader
+
+Dom Dom Soft Reader. नाम तो सुना होगा । :smile:
+
+This is a sister program of the Dom Dom Soft Manga Downloader product line. Fortunately for us, the __death__ of DDSMD hasn't affected it :)
+
+Why this, you ask? Well...
+![](DDSMR.gif)
+
+it's awesome, simply.
+
+
+# [BACK TO TOP^][4]
+
 
 [1]: https://github.com/Xonshiz/comic-dl
 [2]: https://github.com/Xonshiz/comic-dl/blob/master/Supported_Sites.md
